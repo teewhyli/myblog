@@ -1,1 +1,1 @@
-Learning flask by making a small blog
+Learning flask and git by making a small blog
