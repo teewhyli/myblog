@@ -1,2 +1,5 @@
-# ignore all vsc files
-*.vscode
+# text-editor environment
+.vscode/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
